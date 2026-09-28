@@ -14,10 +14,10 @@ source .venv/bin/activate
 Then use python to run the programs.
 
 for most of the exercises, all you need to type in the terminal is:
-1. cd <Folder Name>
-2. python <Program Name>
+1. cd [Folder Name]
+2. python [Program Name]
 
 For the exercises with automated tests (4, 7):
 1. follow the previous instructions to test for yourself
 2. they will contain a program prefixed by test_
-3. run python <Test Program Name>
+3. run python [Test Program Name]
