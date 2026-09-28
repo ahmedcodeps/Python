@@ -1,0 +1,5 @@
+On the conditionals exercise I got an error saying that you cannot compare a string to an integer, this is because when taking in input, 
+python automatically takes anything you type in as a string, so you have to include a line converting the string to whatever type you want it to be,
+for example if you type in the number 1, it will become "1" as a string, not an integer. I solved this by including this line:
+grade = int(grade)
+which converts grade into an integer
