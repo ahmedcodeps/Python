@@ -4,9 +4,8 @@ Python Exercises
 A collection of beginner Python exercises covering variables, conditionals, loops, functions, testing, modules, file handling, and program organization.
 
 Requirements
-Python 3
-VS Code or another Python editor
-A terminal
+Python 3,
+VS Code or another Python editor and a terminal
 
 From the project folder, run this to set up a python enviroment:
 source .venv/bin/activate
